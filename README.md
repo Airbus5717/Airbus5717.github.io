@@ -1,4 +1,4 @@
-# Airbus5717.github.io
+# Airbus5717
 
 currently enrolled in University for software engineering major
 
